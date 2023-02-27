@@ -1,4 +1,4 @@
-<img align ="center" alt ="coding" width ="900" src="https://thumbs.dreamstime.com/b/programming-language-coding-banner-compilation-css-technology-210006161.jpg">
+<img align ="center" alt ="coding" width ="900" src="https://miro.medium.com/max/1400/1*izKn09qswR9lwJiHMqryeg.png">
 <h1 align="center">Hi 👋, I'm Brhanu</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <img align ="right" alt ="coding" width ="410" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
