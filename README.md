@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Full stack web development**
 
-- 👨‍💻 All of my portfolio is available at [https://brhanuhailu.github.io/](https://brhanuhailu.github.io/)
+- 👨‍💻 My portfolio is available at [https://brhanuhailu.github.io/](https://brhanuhailu.github.io/) .. it will be completed soon
 
 - 📝 I regularly write articles on [https://www.mecs-press.org/search.html?search=Brhanu](https://www.mecs-press.org/search.html?search=Brhanu)
 
