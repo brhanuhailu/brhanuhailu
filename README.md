@@ -63,13 +63,18 @@ If you're looking collaborator or developer for a front-end development who brin
 ### **List of Projects**
 
 <div style="display: flex">
-  
+
 - 👨‍💻 Ausome-book project avaliable at [Awsome-book-demo](https://brhanuhailu.github.io/ausome-book/)
+  
+<p> The Awesome book project is done using Vanilla javascript and HTML as well as css. The main activities included in the project is add book to local storage and remove the books. </p>
   
 - 👨‍💻 Capstone web-Conference project avaliable at [Capstone-project-demo](https://brhanuhailu.github.io/Moudle1CapstoneProject/index.html)
   
+  <P> This project is second  project Developing web-conference for Tig-Africa using HTML and CSS. The design given from Microverse. In this project, Mobile first and Desktop version using Css has been implemented and deployed in github page. It has been added popup menu for mobile screen. </P>
+  
 - 👨‍💻 To Do list project avaliable at [To-do-list-demo](https://brhanuhailu.github.io/to-Do-list/dist/)
-
+  
+<p> This is the third  project set up To Do list structure using ES6 and webpack handler. The project is done using Vanilla javascript and HTML as well as css. In this project, It has been implementd the CRUD (create, read, update, delete) methods. All the elements of the user interface are fully functional and application is completed. </p>
 </div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
