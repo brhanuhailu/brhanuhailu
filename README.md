@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brhanuhailu&label=Profile%20views&color=0e75b6&style=flat" alt="brhanuhailu" /> </p>
 
-- 🔭 I’m currently working on [Student Microverse](https://www.microverse.org/)
+- 🔭 I’m interested in Web development
 
-- 🌱 I’m currently learning **Full stack web developing**
+- 🌱 I’m currently learning **Full stack web development**
 
 - 👨‍💻 All of my projects are available at [https://brhanuhailu.github.io/](https://brhanuhailu.github.io/)
 
 - 📝 I regularly write articles on [https://www.mecs-press.org/search.html?search=Brhanu](https://www.mecs-press.org/search.html?search=Brhanu)
 
-- 💬 Ask me about **Html, CSS and JavaScript**
+- 💬 I’m looking to collaborate on open projects  
 
-- ⚡ Fun fact **I a'm funny**
+- ⚡ **I a'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
